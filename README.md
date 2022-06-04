@@ -1,0 +1,1 @@
+# asteroid_rotation_perdiod_determination
